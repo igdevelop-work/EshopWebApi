@@ -14,7 +14,7 @@ This project is a REST API for managing an eshop's products. The API provides en
 
 - Retrieve all products or a single product by ID.
 - Support for paginated product listings.
-- Create, update, and delete products.
+- Create, update products.
 - Switch between real database and mock data storage using environment variables.
 - Swagger API documentation for easy testing and exploration of endpoints.
 
@@ -97,7 +97,6 @@ dotnet test
 - `GET /api/products/{id}` - Retrieve a product by ID
 - `POST /api/products` - Create a new product
 - `PATCH /api/products/{id}` - Update an existing product
-- `DELETE /api/products/{id}` - Delete a product
 - `GET /api/products/v2` - Retrieve products with pagination (version 2)
 
 ## Project Structure
