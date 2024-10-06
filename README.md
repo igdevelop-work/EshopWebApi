@@ -1,6 +1,6 @@
 # WebAPI Application for Eshop Products
 
-This project is a REST API for managing an eshop's products. The API provides endpoints for listing, creating, updating, and deleting products, as well as supporting pagination for product listings.
+This project is a REST API for managing an eshop's products. The API provides endpoints for listing, creating, updating products, as well as supporting pagination for product listings.
 
 ## Project Goals
 
@@ -30,7 +30,7 @@ This project is a REST API for managing an eshop's products. The API provides en
 
 ## Prerequisites
 
-- .NET 6 SDK or later
+- .NET 8 SDK 
 - PostgreSQL (if using real database)
 - Redis (if using mock data for testing)
 
