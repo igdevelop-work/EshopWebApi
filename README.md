@@ -39,10 +39,12 @@ This project is a REST API for managing an eshop's products. The API provides en
 ### 1. Clone the repository
 
 Run the following command to clone the repository and navigate into the project directory:
-
-git clone https://github.com/igdevelop-work/EshopWebApi.git  
+```bash
+git clone https://github.com/igdevelop-work/EshopWebApi.git
+```
+```bash
 cd EshopWebApi
-
+```
 ### 2. Configure environment variables
 
 Create a `.env` file in the root of the project to configure database and Redis connections. Example:
