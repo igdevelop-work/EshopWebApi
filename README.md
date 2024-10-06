@@ -86,6 +86,9 @@ http://localhost:5000/swagger
 
 To run unit tests, use the following command:
 ```bash
+cd tests
+```
+```bash
 dotnet test
 ```
 ## API Endpoints
