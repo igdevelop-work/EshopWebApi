@@ -1,0 +1,71 @@
+# .NET Core
+bin/
+obj/
+*.dll
+*.exe
+*.log
+*.sqlite
+*.pdb
+*.nuget
+*.nupkg
+*.snupkg
+*.cache
+*.db
+*.testresults
+*.suo
+*.user
+*.vspscc
+*.vssscc
+project.lock.json
+project.fragment.lock.json
+
+# Rider & JetBrains
+.idea/
+*.sln.iml
+*.csproj.user
+.idea/
+.idea_modules/
+*.ipr
+*.iws
+.idea/
+*.dotCover
+.ReSharper*/
+*.DotSettings.user
+_out/
+_temp/
+.vscode/
+
+# Visual Studio
+.vs/
+
+# Logs
+*.log
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider, JetBrains Rider
+.idea/
+.idea_modules/
+*.sln.iml
+
+# Database
+*.mdf
+*.ldf
+*.db
+*.sqlite
+
+# Env files
+.env
+
+# Packages
+*.nupkg
+# Uncomment if necessary however generally it will be regenerated when needed
+# packages/
+
+# Azure Pipelines
+.azdo/
